@@ -1,5 +1,5 @@
 {
-    "name": "@ravendevkit/node-x16r",
+    "name": "@B4Bcoin/node-x16r",
     "version": "1.0.2",
     "main": "nodex16r",
     "author": {
@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/RavenDevKit/node-x16r.git"
+        "url": "https://github.com/B4Bcoin/node-x16r.git"
     },
     "dependencies": {
         "bindings": "^1.3.0",
